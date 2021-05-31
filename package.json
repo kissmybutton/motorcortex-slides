@@ -97,7 +97,7 @@
     "babel-eslint": "10.1.0",
     "babel-loader": "8.2.2",
     "babel-preset-es2015-node5": "1.2.0",
-    "commitizen": "3.1.2",
+    "commitizen": "4.2.4",
     "concurrently": "4.1.2",
     "coveralls": "3.1.0",
     "css-loader": "2.1.1",
